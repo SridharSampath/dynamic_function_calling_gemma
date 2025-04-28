@@ -35,3 +35,6 @@ cd <repository-folder>
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
+```
+Follow the detailed blog for full setup, system message design, and code explanation:
+🔗 [Dynamic Function Calling with Gemma 3 - Blog](https://sridhartech.hashnode.dev/preview/680f081299b9a5473cfa19a5)
