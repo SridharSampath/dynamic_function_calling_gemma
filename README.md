@@ -1,4 +1,4 @@
-# 🚀 Dynamic Function Calling with Gemma 3 (1B) + Ollama
+# 🚀 Dynamic Function Calling with Gemma 3 + Ollama
 
 Demo project showcasing **Gemma 3** running locally with **Ollama** and **dynamic multi-function calling** — real-time search, translation, and weather fetching!
 
