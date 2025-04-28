@@ -1,0 +1,20 @@
+# Ignore environment files
+.env
+
+# Ignore Python bytecode and cache
+__pycache__/
+functions/__pycache__/
+utils/__pycache__/
+
+# Ignore Gradio cache
+.gradio/
+
+# Ignore virtual environment
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs if any
+*.log
