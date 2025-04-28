@@ -39,8 +39,10 @@ pip install -r requirements.txt
 Follow the detailed blog for full setup, system message design, and code explanation:
 🔗 [Dynamic Function Calling with Gemma 3 - Blog](https://sridhartech.hashnode.dev/preview/680f081299b9a5473cfa19a5)
 
-👨‍💻 Author
+**Author**__
+
 I share my learnings around AI | ML | AWS here:
 🔗 Hashnode Blog - [sridhartech.hashnode.dev](https://sridhartech.hashnode.dev/)
+
 Connect with me on LinkedIn:
 🔗 LinkedIn - [Sridhar Sampath](https://www.linkedin.com/in/sridharsampath89/)
